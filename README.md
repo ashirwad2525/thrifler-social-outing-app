@@ -1,17 +1,40 @@
-# thrifler
+# Thrifler
 
-A new Flutter project.
+A modern Flutter social outing application designed to help users discover events, connect with like-minded people, and share outing expenses.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Modern dark-themed UI
+- Discover nearby outings
+- Event details page
+- User profile screen
+- Hero animations
+- Smooth navigation
+- Responsive design
+- Reusable Flutter widgets
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Material Design
+- Custom Design System
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# thrifler-social-outing-app
+## Screens
+
+- Home Screen
+- Profile Screen
+- Event Details Screen
+
+## Future Improvements
+
+- Firebase/Supabase Integration
+- Authentication
+- Real-time Chat
+- Event Creation
+- Location Services
+- Push Notifications
+
+## Author
+
+Ashirwad Kathavate
